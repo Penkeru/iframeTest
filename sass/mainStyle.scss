@@ -1,0 +1,41 @@
+body{
+  margin:0;
+  padding:0;
+  background:#efefef;
+  text-align:center;
+}
+
+.header{
+  margin:0 auto;
+  width:900px;
+  h1{
+    color:dodgerblue;
+  }
+
+}
+
+.header{
+  .headerButtons{
+    .btnStyle{
+      width:80px;
+      height:80px;
+      border-radius:40px;
+      background-color:#f3e1d2;
+      outline:none;
+    }
+  }
+}
+
+.content{
+  width:90%;
+  margin-top:20px;
+  iframe{
+    width:30%;
+    height:200px;
+    border:2px solid darkgray;
+    margin:0 10px;
+  }
+}
+
+
+
